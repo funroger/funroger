@@ -7,4 +7,4 @@ There are:
 - scaling functions
 - useful tools for video/image/signal processing
 
-I'm planning to release code to a public domain or with very simle license. WIP
+I'm planning to release code to a public domain or with very simple license. WIP
